@@ -1,0 +1,17 @@
+
+h1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(121, 112, 112);
+    border-radius: 5px;
+}
+
+.info{
+    text-align: center;
+}
+
+.form-busca{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
